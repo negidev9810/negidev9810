@@ -6,10 +6,11 @@ I'm learning Python, CCNA, and AI-assisted development to build practical tools 
 
 ## 🚀 Current Projects
 
-- ✅ File Renamer
-- 🚧 IP Address Calculator
-- 📅 Ping Tool
-- 📅 Cisco Config Generator
+| Project | Status |
+|---------|--------|
+| File Renamer | ✅ Completed |
+| IP Address Calculator | ✅ Completed |
+| Ping Checker | 🚧 Next |
 
 ## 🛠 Skills
 
