@@ -1,50 +1,24 @@
 # Hi there 👋 I'm Yuta
 
-## About Me
+IT Infrastructure Engineer from Japan.
 
-IT Infrastructure Engineer based in Japan.
+I'm learning Python, CCNA, and AI-assisted development to build practical tools for network engineers.
 
-I'm currently learning CCNA, Python, and network automation while building practical tools with AI.
+## 🚀 Current Projects
 
-My goal is to create software that makes network operations simpler, faster, and more reliable.
+- ✅ File Renamer
+- 🚧 IP Address Calculator
+- 📅 Ping Tool
+- 📅 Cisco Config Generator
 
----
-
-## 🛠 Tech Stack
+## 🛠 Skills
 
 - Python
 - Git / GitHub
 - Cisco Networking
-- CCNA (Learning)
 - Windows
 - VS Code
 
----
+## 🎯 Goal
 
-## 📂 Portfolio
-
-| Project | Status |
-|---------|--------|
-| File Renamer | ✅ Completed |
-| IP Address Calculator | 🚧 In Progress |
-| Ping Tool | 📅 Planned |
-| Cisco Config Generator | 📅 Planned |
-| ACL Generator | 📅 Planned |
-
----
-
-## 🎯 Goals for 2026
-
-- Build a strong GitHub portfolio
-- Develop practical tools for network engineers
-- Start freelance work using AI-assisted development
-
----
-
-## 📈 Currently Learning
-
-- Python
-- Network Automation
-- Git / GitHub
-- CCNA
-- AI-assisted Development
+Build practical automation tools and start freelance work using AI.
