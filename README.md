@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋 I'm Yuta
 
-<!--
-**negidev9810/negidev9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+IT Infrastructure Engineer based in Japan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning CCNA, Python, and network automation while building practical tools with AI.
+
+My goal is to create software that makes network operations simpler, faster, and more reliable.
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Git / GitHub
+- Cisco Networking
+- CCNA (Learning)
+- Windows
+- VS Code
+
+---
+
+## 📂 Portfolio
+
+| Project | Status |
+|---------|--------|
+| File Renamer | ✅ Completed |
+| IP Address Calculator | 🚧 In Progress |
+| Ping Tool | 📅 Planned |
+| Cisco Config Generator | 📅 Planned |
+| ACL Generator | 📅 Planned |
+
+---
+
+## 🎯 Goals for 2026
+
+- Build a strong GitHub portfolio
+- Develop practical tools for network engineers
+- Start freelance work using AI-assisted development
+
+---
+
+## 📈 Currently Learning
+
+- Python
+- Network Automation
+- Git / GitHub
+- CCNA
+- AI-assisted Development
