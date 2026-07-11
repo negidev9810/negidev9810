@@ -23,3 +23,6 @@ I'm learning Python, CCNA, and AI-assisted development to build practical tools 
 ## 🎯 Goal
 
 Build practical automation tools and start freelance work using AI.
+
+## note
+https://note.com/gohan_ai_editor
